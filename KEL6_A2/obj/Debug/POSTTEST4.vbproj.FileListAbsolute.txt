@@ -1,0 +1,249 @@
+d:\Documents\Visual Studio 2012\Projects\POSTTEST4\POSTTEST4\bin\Debug\POSTTEST4.exe.config
+d:\Documents\Visual Studio 2012\Projects\POSTTEST4\POSTTEST4\bin\Debug\POSTTEST4.exe
+d:\Documents\Visual Studio 2012\Projects\POSTTEST4\POSTTEST4\bin\Debug\POSTTEST4.pdb
+d:\Documents\Visual Studio 2012\Projects\POSTTEST4\POSTTEST4\bin\Debug\POSTTEST4.xml
+d:\Documents\Visual Studio 2012\Projects\POSTTEST4\POSTTEST4\bin\Debug\mysql.data.dll
+d:\Documents\Visual Studio 2012\Projects\POSTTEST4\POSTTEST4\obj\Debug\POSTTEST4.vbprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2012\Projects\POSTTEST4\POSTTEST4\obj\Debug\WindowsApplication1.Form1.resources
+d:\Documents\Visual Studio 2012\Projects\POSTTEST4\POSTTEST4\obj\Debug\WindowsApplication1.Resources.resources
+d:\Documents\Visual Studio 2012\Projects\POSTTEST4\POSTTEST4\obj\Debug\POSTTEST4.vbproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2012\Projects\POSTTEST4\POSTTEST4\obj\Debug\POSTTEST4.exe
+d:\Documents\Visual Studio 2012\Projects\POSTTEST4\POSTTEST4\obj\Debug\POSTTEST4.xml
+d:\Documents\Visual Studio 2012\Projects\POSTTEST4\POSTTEST4\obj\Debug\POSTTEST4.pdb
+D:\Documents\Visual Studio 2012\Projects\POSTTEST4\POSTTEST4\obj\Debug\WindowsApplication1.Form2.resources
+D:\Documents\Visual Studio 2012\Projects\POSTTEST5\POSTTEST4\bin\Debug\POSTTEST4.exe.config
+D:\Documents\Visual Studio 2012\Projects\POSTTEST5\POSTTEST4\obj\Debug\POSTTEST4.exe
+D:\Documents\Visual Studio 2012\Projects\POSTTEST5\POSTTEST4\obj\Debug\POSTTEST4.xml
+D:\Documents\Visual Studio 2012\Projects\POSTTEST5\POSTTEST4\obj\Debug\POSTTEST4.pdb
+D:\Documents\Visual Studio 2012\Projects\POSTTEST5\POSTTEST4\bin\Debug\POSTTEST4.exe
+D:\Documents\Visual Studio 2012\Projects\POSTTEST5\POSTTEST4\bin\Debug\POSTTEST4.pdb
+D:\Documents\Visual Studio 2012\Projects\POSTTEST5\POSTTEST4\bin\Debug\POSTTEST4.xml
+D:\Documents\Visual Studio 2012\Projects\POSTTEST5\POSTTEST4\bin\Debug\mysql.data.dll
+D:\Documents\Visual Studio 2012\Projects\POSTTEST5\POSTTEST4\obj\Debug\POSTTEST4.vbprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\POSTTEST5\POSTTEST4\obj\Debug\WindowsApplication1.Form1.resources
+D:\Documents\Visual Studio 2012\Projects\POSTTEST5\POSTTEST4\obj\Debug\WindowsApplication1.Form2.resources
+D:\Documents\Visual Studio 2012\Projects\POSTTEST5\POSTTEST4\obj\Debug\WindowsApplication1.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\POSTTEST5\POSTTEST4\obj\Debug\POSTTEST4.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\POSTTEST6\POSTTEST4\bin\Debug\POSTTEST4.exe.config
+D:\Documents\Visual Studio 2012\Projects\POSTTEST6\POSTTEST4\obj\Debug\POSTTEST4.exe
+D:\Documents\Visual Studio 2012\Projects\POSTTEST6\POSTTEST4\obj\Debug\POSTTEST4.xml
+D:\Documents\Visual Studio 2012\Projects\POSTTEST6\POSTTEST4\obj\Debug\POSTTEST4.pdb
+D:\Documents\Visual Studio 2012\Projects\POSTTEST6\POSTTEST4\bin\Debug\POSTTEST4.exe
+D:\Documents\Visual Studio 2012\Projects\POSTTEST6\POSTTEST4\bin\Debug\POSTTEST4.pdb
+D:\Documents\Visual Studio 2012\Projects\POSTTEST6\POSTTEST4\bin\Debug\POSTTEST4.xml
+D:\Documents\Visual Studio 2012\Projects\POSTTEST6\POSTTEST4\bin\Debug\mysql.data.dll
+D:\Documents\Visual Studio 2012\Projects\POSTTEST6\POSTTEST4\obj\Debug\POSTTEST4.vbprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\POSTTEST6\POSTTEST4\obj\Debug\WindowsApplication1.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\POSTTEST6\POSTTEST4\obj\Debug\POSTTEST4.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\POSTTEST6\POSTTEST4\obj\Debug\WindowsApplication1.admin.resources
+D:\Documents\Visual Studio 2012\Projects\POSTTEST6\POSTTEST4\obj\Debug\WindowsApplication1.Karyawan.resources
+D:\Documents\Visual Studio 2012\Projects\POSTTEST6\POSTTEST4\obj\Debug\WindowsApplication1.lihat.resources
+D:\Documents\Visual Studio 2012\Projects\POSTTEST6\POSTTEST4\obj\Debug\WindowsApplication1.login.resources
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\bin\Debug\POSTTEST4.exe.config
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\obj\Debug\POSTTEST4.exe
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\obj\Debug\POSTTEST4.xml
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\obj\Debug\POSTTEST4.pdb
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\bin\Debug\POSTTEST4.exe
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\bin\Debug\POSTTEST4.pdb
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\bin\Debug\POSTTEST4.xml
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\bin\Debug\mysql.data.dll
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\obj\Debug\POSTTEST4.vbprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\obj\Debug\WindowsApplication1.admin.resources
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\obj\Debug\WindowsApplication1.Karyawan.resources
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\obj\Debug\WindowsApplication1.lihat.resources
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\obj\Debug\WindowsApplication1.login.resources
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\obj\Debug\WindowsApplication1.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\obj\Debug\POSTTEST4.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\obj\Debug\WindowsApplication1.absen.resources
+D:\Documents\Visual Studio 2012\Projects\PA\POSTTEST4\obj\Debug\WindowsApplication1.lihat_absen.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\bin\Debug\POSTTEST4.exe.config
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\obj\Debug\POSTTEST4.exe
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\obj\Debug\POSTTEST4.xml
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\obj\Debug\POSTTEST4.pdb
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\obj\Debug\POSTTEST4.vbprojResolveAssemblyReference.cache
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\bin\Debug\POSTTEST4.exe
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\bin\Debug\POSTTEST4.pdb
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\bin\Debug\POSTTEST4.xml
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\obj\Debug\WindowsApplication1.absen.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\obj\Debug\WindowsApplication1.admin.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\obj\Debug\WindowsApplication1.lihat_absen.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\obj\Debug\WindowsApplication1.Karyawan.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\obj\Debug\WindowsApplication1.lihat.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\obj\Debug\WindowsApplication1.login.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\obj\Debug\WindowsApplication1.Resources.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\obj\Debug\POSTTEST4.vbproj.GenerateResource.Cache
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Admin.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA2\PA\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Karyawan.resources
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\bin\Debug\POSTTEST4.exe.config
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\obj\Debug\POSTTEST4.exe
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\obj\Debug\POSTTEST4.xml
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\obj\Debug\POSTTEST4.pdb
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\bin\Debug\POSTTEST4.exe
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\bin\Debug\POSTTEST4.pdb
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\bin\Debug\POSTTEST4.xml
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\bin\Debug\mysql.data.dll
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\obj\Debug\POSTTEST4.vbprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.absen.resources
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.admin.resources
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.lihat_absen.resources
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.Karyawan.resources
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.lihat.resources
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.login.resources
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Admin.resources
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Karyawan.resources
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\obj\Debug\POSTTEST4.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.update.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\bin\Debug\POSTTEST4.exe.config
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\obj\Debug\POSTTEST4.exe
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\obj\Debug\POSTTEST4.xml
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\obj\Debug\POSTTEST4.pdb
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\obj\Debug\POSTTEST4.vbprojResolveAssemblyReference.cache
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\bin\Debug\POSTTEST4.exe
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\bin\Debug\POSTTEST4.pdb
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\bin\Debug\POSTTEST4.xml
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.absen.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.admin.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.lihat_absen.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.Karyawan.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.lihat.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.login.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Karyawan.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.Resources.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.update.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\obj\Debug\POSTTEST4.vbproj.GenerateResource.Cache
+D:\Semester 4\PRAKTIKUM\PEMVIS\PA-2\PA-2\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Admin.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\bin\Debug\POSTTEST4.exe.config
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\obj\Debug\POSTTEST4.exe
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\obj\Debug\POSTTEST4.xml
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\obj\Debug\POSTTEST4.pdb
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\bin\Debug\POSTTEST4.exe
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\bin\Debug\POSTTEST4.pdb
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\bin\Debug\POSTTEST4.xml
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\obj\Debug\POSTTEST4.vbprojResolveAssemblyReference.cache
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\obj\Debug\WindowsApplication1.absen.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\obj\Debug\WindowsApplication1.admin.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\obj\Debug\WindowsApplication1.lihat_absen.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\obj\Debug\WindowsApplication1.Karyawan.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\obj\Debug\WindowsApplication1.lihat.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\obj\Debug\WindowsApplication1.login.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Admin.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Karyawan.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\obj\Debug\WindowsApplication1.Resources.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\obj\Debug\WindowsApplication1.update.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX\POSTTEST4\obj\Debug\POSTTEST4.vbproj.GenerateResource.Cache
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\bin\Debug\POSTTEST4.exe.config
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\POSTTEST4.exe
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\POSTTEST4.xml
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\POSTTEST4.pdb
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\bin\Debug\POSTTEST4.exe
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\bin\Debug\POSTTEST4.pdb
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\bin\Debug\POSTTEST4.xml
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\POSTTEST4.vbprojResolveAssemblyReference.cache
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.absen.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.admin.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.lihat_absen.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.Karyawan.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.lihat.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.login.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Admin.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Karyawan.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.Resources.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.update.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\POSTTEST4.vbproj.GenerateResource.Cache
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\bin\Debug\POSTTEST4.exe.config
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\POSTTEST4.exe
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\POSTTEST4.xml
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\POSTTEST4.pdb
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\bin\Debug\POSTTEST4.exe
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\bin\Debug\POSTTEST4.pdb
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\bin\Debug\POSTTEST4.xml
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\POSTTEST4.vbprojResolveAssemblyReference.cache
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.absen.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.admin.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.lihat_absen.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.Karyawan.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.lihat.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.login.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Admin.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Karyawan.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\WindowsApplication1.update.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PROJEK_AKHIR_FIX_TEST\POSTTEST4\obj\Debug\POSTTEST4.vbproj.GenerateResource.Cache
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\bin\Debug\POSTTEST4.exe.config
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\obj\Debug\POSTTEST4.exe
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\obj\Debug\POSTTEST4.xml
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\obj\Debug\POSTTEST4.pdb
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\bin\Debug\POSTTEST4.exe
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\bin\Debug\POSTTEST4.pdb
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\bin\Debug\POSTTEST4.xml
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\obj\Debug\POSTTEST4.vbprojResolveAssemblyReference.cache
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\obj\Debug\WindowsApplication1.absen.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\obj\Debug\WindowsApplication1.admin.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\obj\Debug\WindowsApplication1.lihat_absen.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\obj\Debug\WindowsApplication1.Karyawan.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\obj\Debug\WindowsApplication1.lihat.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\obj\Debug\WindowsApplication1.login.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Admin.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Karyawan.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\obj\Debug\WindowsApplication1.Resources.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\obj\Debug\WindowsApplication1.update.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PROJEK_AKHIR_FIX_TES_ID-CARD\PROJEK_AKHIR_FIX_TES_ID-CARD\POSTTEST4\obj\Debug\POSTTEST4.vbproj.GenerateResource.Cache
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\bin\Debug\POSTTEST4.exe.config
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\POSTTEST4.exe
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\POSTTEST4.xml
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\POSTTEST4.pdb
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\bin\Debug\POSTTEST4.exe
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\bin\Debug\POSTTEST4.pdb
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\bin\Debug\POSTTEST4.xml
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\POSTTEST4.vbprojResolveAssemblyReference.cache
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.absen.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.admin.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.lihat_absen.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.Karyawan.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.lihat.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.login.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Admin.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Karyawan.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.update.resources
+C:\Users\M. ARIANDA SAPUTRA\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\POSTTEST4.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\bin\Debug\POSTTEST4.exe.config
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\POSTTEST4.exe
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\POSTTEST4.xml
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\POSTTEST4.pdb
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\bin\Debug\POSTTEST4.exe
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\bin\Debug\POSTTEST4.pdb
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\bin\Debug\POSTTEST4.xml
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\bin\Debug\mysql.data.dll
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\POSTTEST4.vbprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.absen.resources
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.admin.resources
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.lihat_absen.resources
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.Karyawan.resources
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.lihat.resources
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.login.resources
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Admin.resources
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Karyawan.resources
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.update.resources
+D:\Documents\Visual Studio 2012\Projects\PAlonan\POSTTEST4\obj\Debug\POSTTEST4.vbproj.GenerateResource.Cache
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\bin\Debug\POSTTEST4.exe.config
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\obj\Debug\POSTTEST4.exe
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\obj\Debug\POSTTEST4.xml
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\obj\Debug\POSTTEST4.pdb
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\obj\Debug\POSTTEST4.vbprojResolveAssemblyReference.cache
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\bin\Debug\POSTTEST4.exe
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\bin\Debug\POSTTEST4.pdb
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\bin\Debug\POSTTEST4.xml
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.absen.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.admin.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.lihat_absen.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.Karyawan.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.lihat.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.login.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Admin.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.Menu_Karyawan.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.Resources.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\obj\Debug\WindowsApplication1.update.resources
+D:\Semester 4\PRAKTIKUM\PEMVIS\PAlonan\PAlonan\POSTTEST4\obj\Debug\POSTTEST4.vbproj.GenerateResource.Cache
