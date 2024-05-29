@@ -125,4 +125,8 @@ Public Class lihat
             MessageBox.Show("PILIH BARIS YANG INGIN DIUPDATE.")
         End If
     End Sub
+
+    Private Sub DataGridView1_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataGridView1.CellContentClick
+
+    End Sub
 End Class

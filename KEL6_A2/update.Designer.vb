@@ -88,7 +88,7 @@ Partial Class update
         'jabatan
         '
         Me.jabatan.FormattingEnabled = True
-        Me.jabatan.Items.AddRange(New Object() {"Bendahara", "Sekretaris", "Manajer"})
+        Me.jabatan.Items.AddRange(New Object() {"Bendahara", "Sekretaris", "Manajer", "Cleaning Service", "Customer Service"})
         Me.jabatan.Location = New System.Drawing.Point(284, 308)
         Me.jabatan.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.jabatan.Name = "jabatan"
